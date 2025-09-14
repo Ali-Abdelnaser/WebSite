@@ -1,0 +1,86 @@
+[
+  {
+    "name": "HR",
+    "title": "What makes our HR team essential?",
+    "image": "/img/committees/hr.svg",
+    "description": "The HR Committee is responsible for ensuring every member feels welcomed, valued, and engaged in our branch. They manage onboarding, training sessions, internal communication, and member satisfaction. HR organizes team-building activities, resolves internal conflicts, and maintains a positive environment. Their role is crucial for fostering a sense of community and ensuring smooth collaboration between all committees.",
+    "responsibilities": [
+      "Organize onboarding and training sessions for new members.",
+      "Conduct team-building and engagement activities.",
+      "Resolve internal conflicts and maintain harmony.",
+      "Ensure smooth communication between committees."
+    ]
+  },
+  {
+    "name": "Media",
+    "title": "How does Media keep us connected visually?",
+    "image": "/img/committees/media.svg",
+    "description": "The Media Committee handles all visual and digital content for the branch. They capture photographs and videos during events, design graphics for social media, create promotional materials, and maintain the branch's online presence. Media ensures that our events are well-documented and visually appealing, contributing to a strong branch identity and professional image. They also work on creative campaigns to engage members and the community.",
+    "responsibilities": [
+      "Capture photos and videos during events.",
+      "Design graphics and digital content for campaigns.",
+      "Manage the branch’s visual identity and branding.",
+      "Maintain a strong online and social media presence."
+    ]
+  },
+  {
+    "name": "Event Management",
+    "title": "How do we manage flawless events?",
+    "image": "/img/committees/event.svg",
+    "description": "The Event Management Committee focuses on planning, coordinating, and executing events from start to finish. They create event timelines, manage task assignments, liaise with other committees, and oversee the entire workflow. This committee ensures that all events meet their objectives, are executed efficiently, and provide value to attendees. They also handle post-event evaluations to continuously improve the branch’s activities.",
+    "responsibilities": [
+      "Plan and organize event timelines.",
+      "Assign and manage tasks across teams.",
+      "Oversee event execution and coordination.",
+      "Conduct post-event evaluations for improvement."
+    ]
+  },
+  {
+    "name": "Logistics",
+    "title": "Who ensures our events run smoothly?",
+    "image": "/img/committees/logistics.svg",
+    "description": "The Logistics Committee is responsible for organizing venues, equipment, and resources for all events and activities. They coordinate transportation, manage inventory, handle event setup and breakdown, and ensure that all physical arrangements run smoothly. Logistics plays a critical role in making sure events happen without any disruptions, guaranteeing a seamless experience for both organizers and participants.",
+    "responsibilities": [
+      "Arrange venues and handle event setup.",
+      "Manage transportation and equipment.",
+      "Coordinate event breakdown and cleanup.",
+      "Ensure smooth physical arrangements for all activities."
+    ]
+  },
+  {
+    "name": "Marketing",
+    "title": "How do we promote our branch effectively?",
+    "image": "/img/committees/marketing.svg",
+    "description": "The Marketing Committee promotes the branch and its activities to the wider community. They design campaigns, write content for social media, engage with partners, and develop strategies to attract new members. Marketing ensures that our events and initiatives receive maximum visibility and that our branch maintains a strong presence both online and offline. Their work directly influences membership growth and public engagement.",
+    "responsibilities": [
+      "Design and execute promotional campaigns.",
+      "Create content for social media platforms.",
+      "Engage with partners and collaborators.",
+      "Develop strategies to attract new members."
+    ]
+  },
+  {
+    "name": "PR",
+    "title": "How do we maintain our branch's reputation?",
+    "image": "/img/committees/pr.svg",
+    "description": "The PR Committee manages public relations and communications for the branch. They handle media outreach, press releases, official statements, and relationships with external organizations. PR ensures that the branch's message is consistent and professional, maintaining a positive reputation. They also manage crisis communication and coordinate announcements for events, achievements, and partnerships.",
+    "responsibilities": [
+      "Prepare press releases and official statements.",
+      "Handle communication with media outlets.",
+      "Manage relationships with external organizations.",
+      "Maintain a consistent and professional image."
+    ]
+  },
+  {
+    "name": "FR",
+    "title": "Who keeps our finances and resources in check?",
+    "image": "/img/committees/fr.svg",
+    "description": "The FR (Finance & Resources) Committee manages the financial and resource planning of the branch. They handle budgeting, tracking expenses, fundraising, and resource allocation for all committees. FR ensures that all activities are financially sustainable, that funds are properly managed, and that resources are allocated efficiently. Their work is critical to maintaining the operational stability and success of the branch.",
+    "responsibilities": [
+      "Prepare budgets and track expenses.",
+      "Plan and manage fundraising activities.",
+      "Ensure resources are distributed fairly.",
+      "Maintain financial sustainability for all committees."
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
-import "./Hero.css";
+import "./hero.css";
 import LogoAnimation from "./LogoAnimation";
 
 export default function Hero() {
@@ -32,3 +32,4 @@ export default function Hero() {
     </motion.section>
   );
 }
+
